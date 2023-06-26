@@ -21,5 +21,3 @@ while coin <= 100:
          print("It landed on Heads so",q1)
       if heads < tails :
          print("It landed on Tails so",q2)
-         
-      
